@@ -1,2 +1,2 @@
 # oneclick-images
-Images for OneClick API
+Images for Eshopy – API
